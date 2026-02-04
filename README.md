@@ -1,2 +1,1 @@
-# porsche-sentiment-analysis
-A Big Data analytics project that performs sentiment analysis on Reddit data related to Porsche using Python, MapReduce concepts, and data visualization techniques.
+A Big Data analytics project developed as part of the 2nd semester coursework that performs sentiment analysis on Reddit data related to Porsche using Python, MapReduce concepts, and data visualization techniques.
