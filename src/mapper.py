@@ -1,3 +1,6 @@
+#Processes line-based Reddit JSON input, cleans comment text, and prepares it for distributed processing.
+
+
 #!/usr/bin/env python3
 import sys, json, re
 from nltk.corpus import stopwords
