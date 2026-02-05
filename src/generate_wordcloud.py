@@ -1,3 +1,7 @@
+#Generates a word cloud from cleaned Reddit comments
+#using NLP preprocessing and visualization libraries.
+
+
 #!/usr/bin/env python3
 import sys
 import json
