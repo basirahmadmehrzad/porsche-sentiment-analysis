@@ -1,3 +1,4 @@
+#This script reads cleaned Reddit comments, applies sentiment analysis, and outputs sentiment category counts in a TSV file for visualization.
 # generate_counts_tsv.py
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
