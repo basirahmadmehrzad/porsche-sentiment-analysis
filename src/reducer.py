@@ -1,3 +1,6 @@
+#Removes duplicate records and aggregates cleaned text output from the mapper stage.
+
+
 #!/usr/bin/env python3
 import sys
 
